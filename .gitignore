@@ -1,0 +1,16 @@
+credentials.json
+token.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Python virtual environment
+venv/
+
+# Logs and temp
+*.log
+*.tmp
